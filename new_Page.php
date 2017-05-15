@@ -3,7 +3,7 @@
 * Defines methods for creating a web page on the Intranet.
 *
 * @package Web
-* @author Jon Marthaler
+* @author Krista Sheely
 */ 
 class Web_Page { 	
 	/**
